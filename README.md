@@ -3,7 +3,7 @@
 # NextGenesis FrontEnd
 
 ## Overview
-NextGenesis is a modern, AI-powered HR onboarding platform designed to streamline and gamify the employee induction process. This frontend application provides an interactive, user-friendly interface for new hires, HR managers, and reviewers, leveraging smart forms, document upload, AI validation, and real-time notifications.
+NextGenesis FrontEnd is a modern, AI-powered HR onboarding platform designed to streamline and gamify the employee induction process. This frontend application provides an interactive, user-friendly interface for new hires, HR managers, and reviewers, leveraging smart forms, document upload, AI validation, and real-time notifications.
 
 ## Features
 - Adaptive onboarding forms
